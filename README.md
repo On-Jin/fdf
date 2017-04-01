@@ -8,6 +8,7 @@ Presentation
 Ce projet consiste à créer graphiquement la representation schématique (en “fils de fer” ou “wireframe” en anglais) d’un terrain en relief en reliant différents points (x, y, z) par des segments. Les coordonnées du terrain seront stockées dans un fichier passé en paramètre, dont voici un exemple :
 
 ![Pars](https://github.com/Jino42/fdf/blob/master/pic/Pars.png)
+
 Resultat :
 ![42](https://github.com/Jino42/fdf/blob/master/pic/42.png)
 
@@ -50,9 +51,7 @@ Pointsfortfaible
  *(Tracer des segments, convertion couleurs [Voir plus bas], creer une image... )*
  - Utilisation de HSV (Hue, saturation, value) pour les couleurs, ensuite convertie en RGB
  *Permet de faire de très jolie dégradé, mais pas assez exploité*
- - Reste jolie
-![Fract_Poesie](https://github.com/Jino42/fdf/blob/master/pic/Fract_poesie.png)
- - Et solide
+ - Reste jolie && solide
 ![France](https://github.com/Jino42/fdf/blob/master/pic/France.png)
 Conclusion
 -
