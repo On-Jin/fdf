@@ -1,7 +1,7 @@
 FDF
 ===
 
-![alt tag](https://raw.github.com/Jino42/fdf/blob/master/pic/Julia_poesie.png)
+![alt tag](https://github.com/Jino42/fdf/blob/master/pic/Julia_poesie.png)
 
 Presentation
 -
