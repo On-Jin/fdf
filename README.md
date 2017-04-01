@@ -53,6 +53,7 @@ Pointsfortfaible
  *Permet de faire de très jolie dégradé, mais pas assez exploité*
  - Reste jolie && solide
 ![France](https://github.com/Jino42/fdf/blob/master/pic/France.png)
+
 Conclusion
 -
 Sachant ou ce trouve mes "erreurs" (Ou en tout cas, les point sur lesquels j'aurait pu m'investir d'avantage.), j'ai une grande envie de le recommencer. Mais une fois la OpenGl assimilé
