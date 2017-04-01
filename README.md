@@ -1,15 +1,15 @@
 FDF
 ===
 
-![alt tag](https://github.com/Jino42/fdf/blob/master/pic/Julia_poesie.png)
+![Julia](https://github.com/Jino42/fdf/blob/master/pic/Julia_poesie.png)
 
 Presentation
 -
 Ce projet consiste à créer graphiquement la representation schématique (en “fils de fer” ou “wireframe” en anglais) d’un terrain en relief en reliant différents points (x, y, z) par des segments. Les coordonnées du terrain seront stockées dans un fichier passé en paramètre, dont voici un exemple :
 
-/*Photo*/
+![Pars](https://github.com/Jino42/fdf/blob/master/pic/Pars.png)
 Resultat :
-/*Photo*/
+![42](https://github.com/Jino42/fdf/blob/master/pic/42.png)
 
 Ce qui est demandé est donc "basic". Pas forcement de couleur, de mouvement/rotation et autres fantaisies !
 
@@ -39,20 +39,21 @@ Pointsfortfaible
 
  - Rotation matriciel, seulement sur un seul axe
  - Le degradé sur les droites
+![Fract_degrade](https://github.com/Jino42/fdf/blob/master/pic/Fract_degrade.png)
  - La gestion des faces caché
+![Fract face](https://github.com/Jino42/fdf/blob/master/pic/Fract_face.png)
  - Pas assez sexy a mes yeux
 
 *Point fort*
 
  - Creation d'une toute petite bibliothèque graphique générique basé sur la minilibx.
  *(Tracer des segments, convertion couleurs [Voir plus bas], creer une image... )*
- 
-
  - Utilisation de HSV (Hue, saturation, value) pour les couleurs, ensuite convertie en RGB
  *Permet de faire de très jolie dégradé, mais pas assez exploité*
  - Reste jolie
- /*Photo fract*/
-
+![Fract_Poesie](https://github.com/Jino42/fdf/blob/master/pic/Fract_poesie.png)
+ - Et solide
+![France](https://github.com/Jino42/fdf/blob/master/pic/France.png)
 Conclusion
 -
 Sachant ou ce trouve mes "erreurs" (Ou en tout cas, les point sur lesquels j'aurait pu m'investir d'avantage.), j'ai une grande envie de le recommencer. Mais une fois la OpenGl assimilé
