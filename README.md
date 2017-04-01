@@ -60,3 +60,5 @@ Sachant ou ce trouve mes "erreurs" (Ou en tout cas, les point sur lesquels j'aur
 Le sujet etant assez gentil, de base ils nous demandent de faire juste un rendu, qui ne bouge pas, sans couleur, des Points relié entre eux.
 Le reste est du bonus, donc le travail est quand meme présent.
 J'aimerais juste avoir un rendu plus ... jolie, intense !
+Pour les curieux : https://www.youtube.com/watch?v=OAk6WeF8ICg
+/!\ La qualité de la capture video est ... affreuse. Je suis navré. Les photos sont très bien. La video est juste la pour montrer les 2/3 particularités. Non vraiment. Cette vidéo est affreuse. Je vais essayer d'y remedier /!\
